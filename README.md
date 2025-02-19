@@ -14,6 +14,11 @@ The project follows best practices for architecture and development with Spring 
   - Environment setup (dev, staging, production)
   - Development best practices
 
+#### **SpringBoot-Security**: Security implementation using Spring Security with support for:
+  - JWT for authentication and authorization
+  - User and permission management
+  - OAuth2 integration (optional)
+
 ---
 
 ## ✅ Requirements
