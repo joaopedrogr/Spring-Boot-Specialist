@@ -26,6 +26,11 @@ The project follows best practices for architecture and development with Spring 
   - Support classes
   - Reusable data models
 
+#### **Produtos-API**: API dedicated to product management, including:
+  - Product creation, editing, deletion, and listing
+  - Support for filters and pagination
+  - Integration with other APIs, such as Orders
+
 ---
 
 ## ✅ Requirements
