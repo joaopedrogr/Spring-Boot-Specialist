@@ -19,6 +19,8 @@ The project follows best practices for architecture and development with Spring 
   - User and permission management
   - OAuth2 integration (optional)
 
+#### **Resource-Server**: Resource server responsible for providing authentication tokens and managing sessions, ensuring that other services are protected by authentication.
+
 ---
 
 ## ✅ Requirements
