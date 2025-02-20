@@ -21,6 +21,11 @@ The project follows best practices for architecture and development with Spring 
 
 #### **Resource-Server**: Resource server responsible for providing authentication tokens and managing sessions, ensuring that other services are protected by authentication.
 
+#### **Library-API**: Shared library between the project's APIs, containing:
+  - Common utilities (validations, converters, error handlers)
+  - Support classes
+  - Reusable data models
+
 ---
 
 ## ✅ Requirements
